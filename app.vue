@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Piotr Klepuszewski</h1>
+    <h1>BTC</h1>
+    <p>Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible.</p>
   </div>
 
 <!-- TradingView Widget BEGIN -->
